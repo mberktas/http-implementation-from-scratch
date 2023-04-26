@@ -6,7 +6,9 @@ This repository provides a basic implementation of the HTTP protocol using Node.
 
 To use this implementation, simply clone the repository and run the following command:
 
-This will start a local server that listens for incoming HTTP requests on port 8080. To test the server, open your web browser and navigate to `http://localhost:8080`, `http://localhost:8080/index.html`.
+`node server.js`
+
+This will start a local server that listens for incoming HTTP requests on port 8080. To test the server, open your web browser and navigate to `http://localhost:8080` or `http://localhost:8080/index.html`.
 
 ## Features
 
